@@ -4,7 +4,7 @@ module.exports = {
     'Yatharth Bansal is a Telecom Engineer who is a proactive learner.',
   siteKeywords:
     'Yatharth Bansal, Yatharth, Bansal, Yang Song, covid-19, covid india, covid dashboard, yang, yatharth24, data analyst, telecom, web developer, iit roorkee, EY, china,yangsong , bit, mesra, deoghar',
-  siteUrl: 'www.yatharthbansal.com',
+  siteUrl: 'https://yangsong24.github.io/yb/',
   siteLanguage: 'en_US',
   googleAnalyticsID: '',
   googleVerification: '',
