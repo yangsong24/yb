@@ -42,7 +42,7 @@ const PostTemplate = ({ data, location }) => {
   return (
     <Layout location={location}>
       <Helmet>
-        <title>{title} | Yatharth Bansal</title>
+        <title>{title} | </title>
         <link rel="canonical" href="" />
       </Helmet>
 

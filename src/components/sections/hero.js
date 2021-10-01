@@ -55,7 +55,7 @@ const StyledEmailLink = styled.a`
   ${mixins.bigButton};
   margin-top: 50px;
 `;
-var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+//var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
 
 const Hero = ({ data }) => {
   const [isMounted, setIsMounted] = useState(false);

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://yangsong24.github.io/sitemap/sitemap-index.xml
+Host: https://yangsong24.github.io

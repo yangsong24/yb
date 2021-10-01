@@ -16,26 +16,27 @@
             "minify": true,
             "namespace": "",
             "transpileTemplateLiterals": true,
+            "topLevelImportPaths": [],
             "pure": false,
             "ssr": false
           }
         },
         {
-          "name": "/Users/yatharth/Documents/GitHub/yangsong24.github.io/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
+          "name": "/Users/yatharth/Documents/GitHub/yb/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
           "options": {}
         },
         {
-          "name": "/Users/yatharth/Documents/GitHub/yangsong24.github.io/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
+          "name": "/Users/yatharth/Documents/GitHub/yb/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
           "options": {}
         },
         {
-          "name": "/Users/yatharth/Documents/GitHub/yangsong24.github.io/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
+          "name": "/Users/yatharth/Documents/GitHub/yb/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
           "options": {}
         }
       ],
       "presets": [
         {
-          "name": "/Users/yatharth/Documents/GitHub/yangsong24.github.io/node_modules/@babel/preset-typescript/lib/index.js",
+          "name": "/Users/yatharth/Documents/GitHub/yb/node_modules/@babel/preset-typescript/lib/index.js",
           "options": {
             "plugins": [],
             "allExtensions": false,
@@ -56,15 +57,15 @@
           "options": {}
         },
         {
-          "name": "/Users/yatharth/Documents/GitHub/yangsong24.github.io/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
+          "name": "/Users/yatharth/Documents/GitHub/yb/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
           "options": {}
         },
         {
-          "name": "/Users/yatharth/Documents/GitHub/yangsong24.github.io/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
+          "name": "/Users/yatharth/Documents/GitHub/yb/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
           "options": {}
         },
         {
-          "name": "/Users/yatharth/Documents/GitHub/yangsong24.github.io/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
+          "name": "/Users/yatharth/Documents/GitHub/yb/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
           "options": {}
         },
         {
@@ -77,6 +78,7 @@
             "minify": true,
             "namespace": "",
             "transpileTemplateLiterals": true,
+            "topLevelImportPaths": [],
             "pure": false,
             "ssr": false
           }
@@ -84,7 +86,7 @@
       ],
       "presets": [
         {
-          "name": "/Users/yatharth/Documents/GitHub/yangsong24.github.io/node_modules/@babel/preset-typescript/lib/index.js",
+          "name": "/Users/yatharth/Documents/GitHub/yb/node_modules/@babel/preset-typescript/lib/index.js",
           "options": {
             "plugins": [],
             "allExtensions": false,
@@ -105,15 +107,15 @@
           "options": {}
         },
         {
-          "name": "/Users/yatharth/Documents/GitHub/yangsong24.github.io/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
+          "name": "/Users/yatharth/Documents/GitHub/yb/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
           "options": {}
         },
         {
-          "name": "/Users/yatharth/Documents/GitHub/yangsong24.github.io/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
+          "name": "/Users/yatharth/Documents/GitHub/yb/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
           "options": {}
         },
         {
-          "name": "/Users/yatharth/Documents/GitHub/yangsong24.github.io/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
+          "name": "/Users/yatharth/Documents/GitHub/yb/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
           "options": {}
         },
         {
@@ -126,6 +128,7 @@
             "minify": true,
             "namespace": "",
             "transpileTemplateLiterals": true,
+            "topLevelImportPaths": [],
             "pure": false,
             "ssr": true
           }
@@ -133,7 +136,7 @@
       ],
       "presets": [
         {
-          "name": "/Users/yatharth/Documents/GitHub/yangsong24.github.io/node_modules/@babel/preset-typescript/lib/index.js",
+          "name": "/Users/yatharth/Documents/GitHub/yb/node_modules/@babel/preset-typescript/lib/index.js",
           "options": {
             "plugins": [],
             "allExtensions": false,
@@ -154,15 +157,15 @@
           "options": {}
         },
         {
-          "name": "/Users/yatharth/Documents/GitHub/yangsong24.github.io/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
+          "name": "/Users/yatharth/Documents/GitHub/yb/node_modules/@babel/plugin-proposal-optional-chaining/lib/index.js",
           "options": {}
         },
         {
-          "name": "/Users/yatharth/Documents/GitHub/yangsong24.github.io/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
+          "name": "/Users/yatharth/Documents/GitHub/yb/node_modules/@babel/plugin-proposal-nullish-coalescing-operator/lib/index.js",
           "options": {}
         },
         {
-          "name": "/Users/yatharth/Documents/GitHub/yangsong24.github.io/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
+          "name": "/Users/yatharth/Documents/GitHub/yb/node_modules/@babel/plugin-proposal-numeric-separator/lib/index.js",
           "options": {}
         },
         {
@@ -175,6 +178,7 @@
             "minify": true,
             "namespace": "",
             "transpileTemplateLiterals": true,
+            "topLevelImportPaths": [],
             "pure": false,
             "ssr": true
           }
@@ -182,7 +186,7 @@
       ],
       "presets": [
         {
-          "name": "/Users/yatharth/Documents/GitHub/yangsong24.github.io/node_modules/@babel/preset-typescript/lib/index.js",
+          "name": "/Users/yatharth/Documents/GitHub/yb/node_modules/@babel/preset-typescript/lib/index.js",
           "options": {
             "plugins": [],
             "allExtensions": false,
@@ -197,8 +201,5 @@
       }
     }
   },
-  "browserslist": [
-    ">0.25%",
-    "not dead"
-  ]
+  "browserslist": "> 0.25%, not dead"
 }
